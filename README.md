@@ -24,3 +24,5 @@ The \<Target\> should be looking like: ```"D:\Programs\TrayStarter.exe" "C:\User
 2. ```"C:\Users\<YourUserName>\AppData\Local\Programs\signal-desktop\Signal.exe"``` - path to execution file of "Signal" application
 3. ```Signal``` - name of "Signal" application process
 4. ```30``` - 30 seconds for give the program time for fully loaded. Sometimes signal application need more time for load. In that case you should set up <delay time>
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/andyprogram)
